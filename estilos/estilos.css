@@ -1,0 +1,62 @@
+
+
+.formulario{
+width: 30%;
+margin: auto;
+}
+.tabla{
+width: 50%;
+margin: auto;
+}
+.resultados{
+width: 80%;
+margin: auto;
+padding-top: 1rem;
+}
+
+.btn-block{
+    width: 100%;
+}
+.soluciones{
+    width: 80%;
+    margin: auto;
+    padding: 0.5rem;
+}
+.solucion{
+    text-align: center;
+}
+.solucion img{
+ width: 15rem;      
+ border-radius: 0.5rem;
+}
+footer{
+    margin-top: 3rem;
+    width: 100%;
+    margin: auto;
+    bottom: 0;
+    text-align: center;
+    min-height: 7rem ;
+
+}
+footer p{
+    padding-top: 2rem;
+}
+.logos ul {
+    display:flex ;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+
+
+.regresar{
+    background-color: #007934;
+    color: white;
+    padding: 0.2rem 0.5rem 0.5rem  ;
+    border-radius: 1rem;
+}
+.regresar:hover{
+    background-color: #4fb412;
+}
+
+

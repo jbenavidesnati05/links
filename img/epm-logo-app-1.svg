@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165.662" height="165.66" viewBox="0 0 165.662 165.66">
+  <defs>
+    <filter id="Path_2564" x="0" y="0" width="165.662" height="165.66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="epm-logo-app" transform="translate(12.501 9.501)">
+    <g id="Group_2792" data-name="Group 2792" transform="translate(23053.5 22794.535)">
+      <g transform="matrix(1, 0, 0, 1, -23066, -22804.04)" filter="url(#Path_2564)">
+        <path id="Path_2564-2" data-name="Path 2564" d="M150.5,169.126H88.428a39.291,39.291,0,0,1-39.292-39.29V67.758A39.292,39.292,0,0,1,88.428,28.466h62.079A39.292,39.292,0,0,1,189.8,67.758v62.079A39.3,39.3,0,0,1,150.5,169.126Z" transform="translate(-36.64 -18.97)" fill="#7ad400" stroke="#fff" stroke-width="7"/>
+      </g>
+    </g>
+    <path id="Path_2565" data-name="Path 2565" d="M986.729-58.477V-70.562a12.074,12.074,0,0,0-12.071-12.083,12.076,12.076,0,0,0-12.081,12.083V-58.5a5.706,5.706,0,0,1-5.7,5.684,5.6,5.6,0,0,1-5.687-5.684l.056-11.207c0-16.614,12.268-24.667,23.306-24.667a22.23,22.23,0,0,1,17.719,8.467,22.823,22.823,0,0,1,17.758-8.462c13.859,0,24.166,11.933,24.706,25.76.485,12.406-4.5,33.109-30.977,43.479a5.626,5.626,0,0,1-7.4-5.658,5.908,5.908,0,0,1,4.616-5.457c21.834-6.232,24.06-26.271,23.043-33.176-1.115-7.562-5.581-13.087-13.7-13.216a12.085,12.085,0,0,0-12.485,12.078v12.087a5.532,5.532,0,0,1-5.565,5.656,5.461,5.461,0,0,1-5.538-5.658" transform="translate(-920.088 135.305)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
