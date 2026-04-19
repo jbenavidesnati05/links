@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -L \"https://cdn-icons-png.flaticon.com/512/2489/2489624.png\" -o \"c:\\\\Users\\\\Jorge Benavidez\\\\Documents\\\\Web-links\\\\links\\\\img\\\\control-gastos.png\" --silent)"
+    ]
+  }
+}
