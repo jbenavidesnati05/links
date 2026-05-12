@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(curl -L \"https://cdn-icons-png.flaticon.com/512/2489/2489624.png\" -o \"c:\\\\Users\\\\Jorge Benavidez\\\\Documents\\\\Web-links\\\\links\\\\img\\\\control-gastos.png\" --silent)"
+      "Bash(curl -L \"https://cdn-icons-png.flaticon.com/512/2489/2489624.png\" -o \"c:\\\\Users\\\\Jorge Benavidez\\\\Documents\\\\Web-links\\\\links\\\\img\\\\control-gastos.png\" --silent)",
+      "WebFetch(domain:www.fepep.com.co)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"c:/Users/Jorge Benavidez/Documents/Web-links/links/img/fepep.png\" \"https://www.fepep.com.co/favicon.ico\" -w \"%{http_code}\")",
+      "Bash(magick \"c:/Users/Jorge Benavidez/Documents/Web-links/links/img/fepep.png\" -resize 128x128 \"c:/Users/Jorge Benavidez/Documents/Web-links/links/img/fepep.png\")",
+      "WebFetch(domain:whop.com)",
+      "WebFetch(domain:tabla-de-amortizacion-creditos.vercel.app)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"c:/Users/Jorge Benavidez/Documents/Web-links/links/img/whop.png\" \"https://img-v2-prod.whop.com/unsafe/rs:fit:256:0/plain/https%3A%2F%2Fassets-2-prod.whop.com%2Fpublic%2Fuploads%2Fuser_9437094%2Fimage%2Fbots%2F2026-01-20%2F92b728cc-c7c2-4693-af85-a54840b271ca.png\" -w \"%{http_code}\")"
     ]
   }
 }
